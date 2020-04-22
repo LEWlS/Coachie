@@ -25,7 +25,7 @@ Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, q
 Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel est exploiter ses outils au mieux en essayant de prendre de bonnes habitudes. 
 Au bout de quelques heures, j'ai un premier résultat, un premier **userflow** a interroger grâce au mode **prototype** de **Xd**.
 
-<img align="right" src="medias/Git/v1/testv0.gif.crdownload.gif">
+<img align="right" src="medias/Git/v1/testv0.gif.crdownload">
 
 Mais le résultat ne me convient pas. La **pallette de couleurs** n'est pas satisfesante et **l'interface** laisse à désirer.
 Je décide donc de retourner à la **phase de recherche**. 
