@@ -6,9 +6,6 @@ Dans un premier temps, je fait des recherches sur les méthodes et outils les pl
 
 Je commence par essayer de concevoir un **brief** comparable à ce qu'un client aurait pu m'envoyer. Ça me permet, déjà de voir à quoi ça ressemble, et surtout de poser des bases et des limites a mon projet. J'en profite aussi pour me poser des deadline.
 Ce **brief** n'a rien de définitif, puisqu'en me limitant en terme de **Features**, je passerai à côté de beaucoup d'aspect intéressants. Il est voué à être mis à jour.
-<p align="left">
-  <img width="447" height="450" src="medias/Git/v1/briefv1.png">
-</p>
-<div style="float: left">
+<div style="float: right">
     <img width="447" height="450" src="medias/Git/v1/briefv1.png">
 </div>
