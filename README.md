@@ -19,13 +19,14 @@ Ce **brief** n'a rien de définitif, puisque rien qu'en me limitant en terme de 
 
 Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour bien identifier ses besoin et ne pas construire une application pour moi ou pour qui que ce soit d'autre, mais au contraire de bien ce focaliser sur la **cible de mon application**.
 
-<img align="center" src="medias/Git/v1/Personnas Pierre.png">
+
 
 Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, quelques tutos, et j'ouvre **Adobe Xd**.
 Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel est exploiter ses outils au mieux en essayant de prendre de bonnes habitudes. 
 Au bout de quelques heures, j'ai un premier résultat, un premier **userflow** a interroger grâce au mode **prototype** de **Xd**.
-
-<img align="center" src="medias/Git/v1/testv0.gif">
+V0 | V1
+------------ | -------------
+<img align="center" src="medias/Git/v1/Personnas Pierre.png">|<img align="center" src="medias/Git/v1/testv0.gif">
 
 
 Mais le résultat ne me convient pas. La **pallette de couleurs** n'est pas satisfesante et **l'interface** laisse à désirer.
