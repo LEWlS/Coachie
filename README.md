@@ -21,4 +21,17 @@ Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour 
 
 <img align="center" src="medias/Git/v1/Personnas Pierre.png">
 
+Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, quelques tutos, et j'ouvre **Adobe Xd**.
+Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel est exploiter ses outils au mieux en essayant de prendre de bonnes habitudes. 
+Au bout de quelques heures, j'ai un premier résultat, un premier **userflow** a interroger grâce au mode **prototype** de **Xd**.
 
+<img align="right" src="medias/Git/v1/testv0.gif">
+
+Mais le résultat ne me convient pas. La **pallette de couleurs** n'est pas satisfesante et **l'interface** laisse à désirer.
+Je décide donc de retourner à la **phase de recherche**. 
+J'améliore ma **palette de couleur**. Je télécharge des ressources mobile pour **Xd** pour ne pas avoir à faire tout les boutons ou icones moi même, ça me fait gagner du temps et dans la plupart des cas, la qualité est meilleur, sachant que je peux toujours faire des ajustements. 
+Je télécharge ensuite des applications comparables. J'analyse leur **design**, autant en **micro**, par exemple pour les boutons play/pause qui sont souvent reunis en un bouton, qu'en **macro** quand il s'agit des choix de couleurs ou de la disposition relative de chaque **frame** entre autre. N'étant que des modifications visuelles, je ne me pose pas trop de questions par rapport à mon utilisateur et je retourne dans **Xd** pour ameliorer mon **wireframe**.
+
+<img align="right" src="medias/Git/v1/testv1.gif">
+
+Après une premiére **itération** suis globalement satisfait du resultat. Je vais pouvoir commencer à montrer mon application et **interviewer des utilisatuers potentiels**.
