@@ -10,6 +10,15 @@ Je commence par essayer de concevoir un **brief** comparable à ce qu'un client 
 Ce **brief** n'a rien de définitif, puisque rien qu'en me limitant en terme de **features**, je passerai à côté de beaucoup d'aspect intéressants de la démarche. Il est voué à être mis à jour.
 
 
+
+
+
+
+
+
+
+
+
 Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour bien identifier ses besoin et ne pas construire une application pour moi ou pour qui que ce soit d'autre, mais au contraire de bien ce focaliser sur la **cible de mon application**.
 
 <img align="center" src="medias/Git/v1/Personnas Pierre.png">
