@@ -34,7 +34,7 @@ Je télécharge ensuite des applications comparables. J'analyse leur **design**,
 
 Samples | Samples
 ------- | -------
-<img align="center" src="medias/Git/v1/twireframe01.png"> | <img align="center" src="medias/Git/v1/protype frames01.png">
+<img align="center" src="medias/Git/v1/wireframe01.png"> | <img align="center" src="medias/Git/v1/protype frames01.png">
 <img align="center" src="medias/Git/v1/testv1.gif">
 
 
