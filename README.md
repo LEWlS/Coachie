@@ -21,7 +21,7 @@ Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour 
 
 <img align="center" src="medias/Git/v1/Personnas Pierre.png">
 
-<img align="right" width="375" height="812" src="medias/Git/v1/testv0.gif"> 
+<img align="right" width="187" height="406" src="medias/Git/v1/testv0.gif"> 
 
 Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, quelques tutos, et j'ouvre **Adobe Xd**.
 Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel est exploiter ses outils au mieux en essayant de prendre de bonnes habitudes. 
