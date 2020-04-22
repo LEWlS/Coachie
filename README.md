@@ -28,7 +28,7 @@ Au bout de quelques heures, j'ai un premier résultat, un premier **userflow** �
 Mais le **design** ne me convient pas. La **pallette de couleurs** n'est pas satisfesante et **l'interface** laisse à désirer.
 Je décide donc de retourner dans une **phase de recherche**. 
 J'améliore ma **palette de couleur**. Je télécharge des ressources mobile pour **Xd**. Notament, pour ne pas avoir à faire tout les boutons ou icones moi même. Ça me fait gagner beaucoup de temps et dans la plupart des cas, la qualité est meilleure que ce que j'aurais fait moi même. J'apprend, au passage, à faire des ajustements sur le travail d'un autre. 
-Je télécharge ensuite des applications comparables. J'analyse leur **design**, autant en **micro**, par exemple pour les boutons play/pause qui sont souvent reunis en un bouton, qu'en **macro** quand il s'agit des choix de couleurs ou de la disposition relative de chaque **frame** entre autre. N'étant que des modifications visuelles, je ne me pose pas trop de questions par rapport à mon utilisateur et je retourne dans **Xd** pour ameliorer mon **wireframe**.
+Je télécharge ensuite des applications comparables. J'analyse leur **design**, autant en **micro**, par exemple pour les boutons play/pause qui sont souvent reunis en un bouton, qu'en **macro** quand il s'agit des choix de couleurs ou de l'organisation globale de chaque **frame**. Ne prévoyant presque que des modifications visuelles, je ne me pose pas trop de questions par rapport à mon utilisateur et je retourne dans **Xd** pour ameliorer mon **wireframe**.
 
 Wireframe | Prototype
 ------- | -------
@@ -39,4 +39,4 @@ Wireframe | Prototype
 </p>
 
 
-Après une première **itération** suis globalement satisfait du resultat, il y a encore des choses à rajouter par rapport au **brief** initial mais je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application et **interviewer des utilisatuers potentiels**.
+Après une première **itération**, je suis globalement satisfait du resultat, il y a encore des choses à rajouter par rapport au **brief** initial mais je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisatuers potentiels et essayer de mettre en place des **testes utilisateur**.
