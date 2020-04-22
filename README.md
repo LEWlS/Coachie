@@ -7,7 +7,6 @@ Dans un premier temps, je fait des recherches sur les méthodes et outils les pl
 <img align="right" width="447" height="450" src="medias/Git/v1/briefv1.png">
 
 Je commence par essayer de concevoir un **brief** comparable à ce qu'un client aurait pu m'envoyer.
-
 Ça me permet, déjà de voir à quoi ça ressemble, et surtout de poser des bases et des limites a mon projet. 
 Je commence par identifier mon **utilisateur**. 
 Je défini les **features** que je veux pour l'instant. 
@@ -21,3 +20,5 @@ Ce **brief** n'a rien de définitif, puisque rien qu'en me limitant en terme de 
 Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour bien identifier ses besoin et ne pas construire une application pour moi ou pour qui que ce soit d'autre, mais au contraire de bien ce focaliser sur la **cible de mon application**.
 
 <img align="center" src="medias/Git/v1/Personnas Pierre.png">
+
+
