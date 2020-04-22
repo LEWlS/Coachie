@@ -22,7 +22,7 @@ Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour 
 <img align="right" width="187" height="406" src="medias/Git/v1/testv0.gif"> 
 
 Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, quelques tutos, et j'ouvre **Adobe Xd**.
-Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel est exploiter ses outils au mieux tout en essayant de prendre de bonnes habitudes. 
+Je commence un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel et exploiter ses outils au mieux tout en essayant de prendre de bonnes habitudes. 
 Au bout de quelques heures, j'ai un premier résultat, un premier **userflow** à interroger grâce au mode **prototype** de **Xd**.
 
 Mais le **design** ne me convient pas. La **pallette de couleurs** n'est pas satisfaisante et **l'interface** laisse à désirer.
