@@ -37,7 +37,7 @@ Je télécharge ensuite des applications comparables. J'analyse leur **design**,
 
 V0 | V1
 ------------ | -------------
-<img align="center" src="medias/Git/v1/testv1.gif">|<img align="center" src="medias/Git/v1/testv0.gif">
+<img align="center" src="medias/Git/v1/testv0.gif"> |.  <img align="center" src="medias/Git/v1/testv1.gif">|
 
 
 Après une premiére **itération** suis globalement satisfait du resultat. Je vais pouvoir commencer à montrer mon application et **interviewer des utilisatuers potentiels**.
