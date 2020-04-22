@@ -9,3 +9,6 @@ Ce **brief** n'a rien de définitif, puisqu'en me limitant en terme de **Feature
 <p align="left">
   <img width="447" height="450" src="medias/Git/v1/briefv1.png">
 </p>
+<div style="float: left">
+    <img width="447" height="450" src="medias/Git/v1/briefv1.png">
+</div>
