@@ -12,7 +12,7 @@ Je commence par identifier mon **utilisateur**.
 Je défini les **features** que je veux pour l'instant. 
 Je liste des applications dont je peux m'inspirer ou, qui sont en concurrence avec la mienne. 
 Puis, je fais une liste de **delivrables** comme si j'avais un client, ça me permettra de me fixer des objectif et de construire une chronologie pour mon projet. 
-J'en profite aussi pour me poser des **deadlines** même si je n'ai pas encore la moindre idée du temps que peut me prendre chaque étapes. Ni du nombre d'**itérations** que je vais faire. Mais ça va me permettre de réaliser l'écart qu'il y a entre ce que j'anticipait au début du projet et ce qui est réellement.
+J'en profite aussi pour me poser des **deadlines** même si je n'ai pas encore la moindre idée du temps que peut me prendre chaque étapes, ni du nombre d'**itérations** que je vais faire. Mais ça va me permettre de réaliser l'écart qu'il y a entre ce que j'anticipait au début du projet et ce qui est réellement.
 Ce **brief** n'a rien de définitif, puisque rien qu'en me limitant en terme de **features**, je passerai à côté de beaucoup d'aspect intéressants de la démarche. Il est voué à être mis à jour.
 
 Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour bien identifier ses besoins et ne pas concevoir une application pour moi ou pour qui que ce soit d'autre, mais au contraire de bien se focaliser sur la **cible de mon application** et de la garder au centre de la démarche.
