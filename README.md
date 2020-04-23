@@ -41,4 +41,4 @@ Wireframe | Prototype
 </p>
 
 
-Après une première **itération**, je suis globalement satisfait du resultat, il y a encore des choses à rajouter par rapport au **brief** initial mais je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et essayer de mettre en place des **testes utilisateur**.
+Après une première **itération**, je suis globalement satisfait du résultat, il y a encore des **features** à rajouter par rapport au **brief** initial mais je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et essayer de mettre en place des **tests utilisateur**.
