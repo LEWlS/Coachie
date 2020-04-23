@@ -2,7 +2,7 @@
 
 Il s'agit de mon premier projet utilisant les outils et méthodes de l'**UX Design**. Mon but est de concevoir une application permettant d'organiser ses entrainements en les programmant à l'avance.
 
-Dans un premier temps, je fais des recherches sur les méthodes et outils les plus adaptés à mon projet. J'ai choisi de prendre en main **Adobe Xd**. J'utilise ce que j'ai appris auprès de la **dthinking.academy**, et des informations touvées sur internet. Découvrant encore le domaine, j'alterne l'avancement de mon projet avec des recherches et des lectures.
+Dans un premier temps, je fais des recherches sur les méthodes et outils les plus adaptés à mon projet. J'ai choisi de prendre en main **Adobe Xd**. Je me sers de ce que j'ai appris auprès de la **dthinking.academy**, et j'exploite toutes sortes d'informations touvées sur internet. Découvrant encore le domaine, j'alterne l'avancement de mon projet avec des recherches et des lectures.
 
 <img align="right" width="447" height="450" src="medias/Git/v1/briefv1.png">
 
