@@ -1,6 +1,6 @@
 # Coachie
 
-Il s'agit de mon premier projet utilisant les outils et méthodes de l'**UX Design**. Mon but est de concevoir une application permettant d'organiser ses entrainements en les programant à l'avance.
+Il s'agit de mon premier projet utilisant les outils et méthodes de l'**UX Design**. Mon but est de concevoir une application permettant d'organiser ses entrainements en les programmant à l'avance.
 
 Dans un premier temps, je fait des recherches sur les méthodes et outils les plus adaptés à mon projet. J'ai choisi de prendre en main **Adobe Xd**. J'utilise ce que j'ai apris auprés de la **dthinking.academy**, mais aussi différentes choses touvées sur internet. Découvrant encore le domaine, j'alterne l'avancement de mon projet avec des recherches et des lectures.
 
