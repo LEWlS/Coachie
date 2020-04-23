@@ -9,7 +9,7 @@ Dans un premier temps, je fais des recherches sur les méthodes et outils les pl
 Je commence par essayer de concevoir un **brief** comparable à ce qu'un client aurait pu m'envoyer, calqué sur un exemple professionel.
 Cela me permet, déjà, de voir à quoi ressemble un **brief**, et surtout de poser des bases et des limites à mon projet.
 
-- J'identifis mon **utilisateur**.
+- J'identifie mon **utilisateur**.
 - Je définis les **features** que je veux pour l'instant.
 - Je liste des applications dont je peux m'inspirer ou, qui sont en concurrence avec la mienne. 
 - Je fais une liste de **delivrables** comme si j'avais un client, ça me permettra de me fixer des objectif et de construire une chronologie pour mon projet. 
