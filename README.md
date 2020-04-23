@@ -7,7 +7,7 @@ Dans un premier temps, je fais des recherches sur les méthodes et outils les pl
 <img align="right" width="447" height="450" src="medias/Git/v1/briefv1.png">
 
 Je commence par essayer de concevoir un **brief** comparable à ce qu'un client aurait pu m'envoyer, calqué sur un exemple professionel.
-Cela me permet, déjà, de voir à quoi un **brief** ressemble, et surtout de poser des bases et des limites à mon projet.
+Cela me permet, déjà, de voir à quoi ressemble un **brief**, et surtout de poser des bases et des limites à mon projet.
 
 Je commence par identifier mon **utilisateur**.
 Je défini les **features** que je veux pour l'instant.
