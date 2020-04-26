@@ -37,7 +37,7 @@ Wireframe | Prototype
 <img align="center" src="medias/Git/v1/wireframe01.png"> | <img align="center" src="medias/Git/v1/protype frames01.png">
 
 <p align="center">
-  <img width="375" height="812" src="medias/Git/v1/testv1.gif">
+  <img width="388" height="690" src="medias/Git/v1/testv1.gif">
 </p>
 
 
