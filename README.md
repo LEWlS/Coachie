@@ -51,7 +51,7 @@ D'abord, bien que je n'ai pas d'objectif particulier avec ce processus de **rese
 
 Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entourage qui pratique quotidiennement une activité sportive, en tout cas en ce moment, et qui semble y avoir un rapport différent. Nouria, une jeune femme de 22 ans et Raphael, jeune homme de 23 ans. Les **interviews** plus les **test utilisateur** ont durés un peu plus d'une heure à chaque fois. C'était très intéressant et sympathique. J'en ai appris beaucoup sur la vision qu'ils avaient du sport et d'une bonne application. Cependant, peut être parceque mon prototype étant assez peu fonctionnel et abouti ou parceque j'ai eu un peu de mal à guider **l'échange**, il a été difficile d'avoir des retours clairs sur l'application. J'ai reçu plus de propositions pour de **nouvelles features** que **d'avis** ou de **ressentis** sur ce qui était déjà là. Ou en tout cas ils étaient moins précis que les propositions. C'était peut être juste que l'idée de base était convaincante et qu'ils ne se posaient pas de question, ce qui est une très bonne chose.
 
-Raphael:
+>Raphael:
 
 - Tout les jours.
 - Hit et Renforcement. 
