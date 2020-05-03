@@ -53,62 +53,61 @@ Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entou
 
 >Raphael:
 
-- Tout les jours.
-- Hit et Renforcement. 
-- Pour sa santé.  
-- Il préfère pratiquer seul.
-- Avant il faisait beaucoup de Judo et un peu de muscu. De manière compétitive et pour le loisir. Il préfère faire de la muscu seul. Le Judo se pratique nécessairement en groupe.
-- Il préfère faire du sport seul quand c’est possible.
-- Le Judo était principalement un loisir à la base et c’est devenu compétitif. C’est très important pour lui. Si il devait ranger ses activités, Idéalement, c’est le travail ensuite la vie sociale/temps pour soi et ensuite le sport.
-- Les Douleurs articulaires peuvent le déranger ou l’ambience du lieu ou il pratique ainsi que le manque de temps dans la journée.
-- Pour le judo il ne rencontre pas de problème mais pour la muscu ou le cardio parfois l’absence de plaisir fait baisser sa motivation.
-- « Quand j’allais a la muscu je prévoyais pas trop ce que je faisais, j’y allait au feeling. »
-- « Par contre j’ai un programme d’abdos bien défini. Et tout ce passe bien. Mais parfois la gestion de l’effort est un problème. Je suis pas sur d’être vraiment allé au bout, je sais pas toujours si c’est ma determination mentale qui a failli ou mes muscles. Ça peut être frustrant de pas savoir si je suis aller au bout. »
-- « Un exo se fini avant d’avoir pu se donner a fond, ça m’insupporte. »
- 
-
-Test du prototype sur téléphone:
-
-- Les boutons de retour ne marche pas trop. 
-- La transition après le sign up dérange un peu.
-- Il aimerait que l’application chronomètre les répétitions.
-- Il apprécierait pouvoir chronométrer les pauses et différencier les pauses et les arrêts pour l’application.
-- Il voudrait un bouton de retour à l’éxo précédent.
-- Il aimerait pouvoir changer d’exo pendant l’entraînement
-- Dans les suggestions d’exo lors de la création d’un entrainement pourrait avoir plusieurs catégories, une «  pour continuer dans» qui proposerai des expos similaire et une « pour varier «  qui proposerai des expos complémentaire.
-- Il aimerait pouvoir accéder a l’historique des entrainements pour s’assurer que l’application enregistre ce qui s’est vraiment passer si jamais la séance s’est passé un peu différemment.
-- Il voudrait un diagramme des forces et des faiblesses de l’utilisateur qui montrerait la performance d’une personne par domaine et ce quelles a le plus travaillé.
-- Il apprécierait un suivi du nombre de répétition. Et peut être un rapport temps dans un exo et nombre de répétition. Cela pourrait permettre d’avoir accès à la vitesse de progression et pas juste la progression.
-- Il trouve bon de garder un code couleur par exos peut être par groupe. 
-- Il propose de faire un gradient des couleurs pour qu’un exo plus dur soit plus foncé qu’un plus simple dans une même catégorie.  En gardant la possibilité de changer la couleur peut être plus tard.
-- Retirer le « Contains » (juste la mention pas le contenu).
-- Il aimerait pouvoir faire des boucles lorsqu’il créer un entrainement.
-- Il veut pouvoir faire des playlist d’entrainements avec peut être plusieurs fois le même dedans. Et pouvoir créer la playlist facilement et l’enregistrer quand il veut.
-- Il pense a inclure un entrainements dans un autre à la création.
-- Il aime avoir un historique de ce qu’il a fait.
-- Il serait motiver par un système d’achievements.
-- Trainings sonne mieux que programs.
-- Il voudrait un calendrier pour planifier ses programmes et qui notifie l’utilisateur, et tient compte des séances réalisées ou non.
-- Retirer le « full lenght »(juste la mention pas le contenu).
-- Il aimerait voir le niveau moyen d’un training sur la page principale.
-- Il trouvait cela bien que l’application estime la difficulté d’un training par rapport au profil utilisateur.
-- Les difficultés ce débloquerait au bout d’un certain nombre d’entainements finis comme un achievement et on débloquerait des niveaux de précision au fur est à mesure.
-- Il apprécierait un onglet avec des chiffres marquants pour la personne et un système de record.
-- Pour lui le plus de l’application se trouve dans les stats plus que dans le fait de pouvoir programmer ses entrainements.
-- Il aimerait un suivis sur chaque exo pour savoir notre dernière performance et notre record.
-- Il aimerait voir le prochaine exo et la prochaine pause. 
-- Il apprécierait, d’après lui un design un peu différent du coup.
-- Le lancement telle qu’il est est bien pour voir ce qu’il y a dans un entrainement mais pour le jouer un réalisé avec ces idées peut être mieux.
-- Il aimerait pouvoir activer une voix qui encourage pendant les exos ou les pauses et rappel des infos bonnes pour la santé de l’utilisateur. Et qui s’adapte au profil de lutilisateur
-- « Si c’est fun, que c’est bien fait niveau stats et que visuellement c’est cool, je pourrais l’utiliser. Même si je serais pas forcement allé la chercher. »
-- Il apprécierait de la transparence sur les calculs pour le profil utilisateur et la possibilité de les altérer s’ils ne lui conviennent pas.
-- Il voudrait avoir la possibilité d’insister sur un exos plutôt que de passer tout de suite à la suite.
-- Il pourrait y avoir deux modes, un mode juste suivis. Et un mode coach qui conseillerai à faire plus ou moins celon le profil. 
-- « Un mode marrant ou il te fait bosser un peu plus en trichant sur l’appli par exemple un décompte: 5-4-3-3-3-3-2-1-0. »
-- « J’en aurai pas besoin mais ça m’aiderai, et je pense que je m’améliorerai. Je serais plus efficace avec des séances bien préparées »
-- « Avoir des programmes c’est bien, ça engage et ça rend moins laxiste et ça boost. »
-- Il a souvent la flemme de compter ses temps de recupération.
-
+>- Tout les jours.
+>- Hit et Renforcement. 
+>- Pour sa santé.  
+>- Il préfère pratiquer seul.
+>- Avant il faisait beaucoup de Judo et un peu de muscu. De manière compétitive et pour le loisir. Il préfère faire de la >muscu seul. Le Judo se pratique nécessairement en groupe.
+>- Il préfère faire du sport seul quand c’est possible.
+>- Le Judo était principalement un loisir à la base et c’est devenu compétitif. C’est très important pour lui. Si il devait >ranger ses activités, Idéalement, c’est le travail ensuite la vie sociale/temps pour soi et ensuite le sport.
+>- Les Douleurs articulaires peuvent le déranger ou l’ambience du lieu ou il pratique ainsi que le manque de temps dans la >journée.
+>- Pour le judo il ne rencontre pas de problème mais pour la muscu ou le cardio parfois l’absence de plaisir fait baisser sa >motivation.
+>- « Quand j’allais a la muscu je prévoyais pas trop ce que je faisais, j’y allait au feeling. »
+>- « Par contre j’ai un programme d’abdos bien défini. Et tout ce passe bien. Mais parfois la gestion de l’effort est un >problème. Je suis pas sur d’être vraiment allé au bout, je sais pas toujours si c’est ma determination mentale qui a failli >ou mes muscles. Ça peut être frustrant de pas savoir si je suis aller au bout. »
+>- « Un exo se fini avant d’avoir pu se donner a fond, ça m’insupporte. »
+> 
+>
+>Test du prototype sur téléphone:
+>
+>- Les boutons de retour ne marche pas trop. 
+>- La transition après le sign up dérange un peu.
+>- Il aimerait que l’application chronomètre les répétitions.
+>- Il apprécierait pouvoir chronométrer les pauses et différencier les pauses et les arrêts pour l’application.
+>- Il voudrait un bouton de retour à l’éxo précédent.
+>- Il aimerait pouvoir changer d’exo pendant l’entraînement
+>- Dans les suggestions d’exo lors de la création d’un entrainement pourrait avoir plusieurs catégories, une «  pour continuer >dans» qui proposerai des expos similaire et une « pour varier «  qui proposerai des expos complémentaire.
+>- Il aimerait pouvoir accéder a l’historique des entrainements pour s’assurer que l’application enregistre ce qui s’est >vraiment passer si jamais la séance s’est passé un peu différemment.
+>- Il voudrait un diagramme des forces et des faiblesses de l’utilisateur qui montrerait la performance d’une personne par >domaine et ce quelles a le plus travaillé.
+>- Il apprécierait un suivi du nombre de répétition. Et peut être un rapport temps dans un exo et nombre de répétition. Cela >pourrait permettre d’avoir accès à la vitesse de progression et pas juste la progression.
+>- Il trouve bon de garder un code couleur par exos peut être par groupe. 
+>- Il propose de faire un gradient des couleurs pour qu’un exo plus dur soit plus foncé qu’un plus simple dans une même >catégorie.  En gardant la possibilité de changer la couleur peut être plus tard.
+>- Retirer le « Contains » (juste la mention pas le contenu).
+>- Il aimerait pouvoir faire des boucles lorsqu’il créer un entrainement.
+>- Il veut pouvoir faire des playlist d’entrainements avec peut être plusieurs fois le même dedans. Et pouvoir créer la >playlist facilement et l’enregistrer quand il veut.
+>- Il pense a inclure un entrainements dans un autre à la création.
+>- Il aime avoir un historique de ce qu’il a fait.
+>- Il serait motiver par un système d’achievements.
+>- Trainings sonne mieux que programs.
+>- Il voudrait un calendrier pour planifier ses programmes et qui notifie l’utilisateur, et tient compte des séances réalisées >ou non.
+>- Retirer le « full lenght »(juste la mention pas le contenu).
+>- Il aimerait voir le niveau moyen d’un training sur la page principale.
+>- Il trouvait cela bien que l’application estime la difficulté d’un training par rapport au profil utilisateur.
+>- Les difficultés ce débloquerait au bout d’un certain nombre d’entainements finis comme un achievement et on débloquerait >des niveaux de précision au fur est à mesure.
+>- Il apprécierait un onglet avec des chiffres marquants pour la personne et un système de record.
+>- Pour lui le plus de l’application se trouve dans les stats plus que dans le fait de pouvoir programmer ses entrainements.
+>- Il aimerait un suivis sur chaque exo pour savoir notre dernière performance et notre record.
+>- Il aimerait voir le prochaine exo et la prochaine pause. 
+>- Il apprécierait, d’après lui un design un peu différent du coup.
+>- Le lancement telle qu’il est est bien pour voir ce qu’il y a dans un entrainement mais pour le jouer un réalisé avec ces >idées peut être mieux.
+>- Il aimerait pouvoir activer une voix qui encourage pendant les exos ou les pauses et rappel des infos bonnes pour la santé >de l’utilisateur. Et qui s’adapte au profil de lutilisateur
+>- « Si c’est fun, que c’est bien fait niveau stats et que visuellement c’est cool, je pourrais l’utiliser. Même si je serais >pas forcement allé la chercher. »
+>- Il apprécierait de la transparence sur les calculs pour le profil utilisateur et la possibilité de les altérer s’ils ne lui >conviennent pas.
+>- Il voudrait avoir la possibilité d’insister sur un exos plutôt que de passer tout de suite à la suite.
+>- Il pourrait y avoir deux modes, un mode juste suivis. Et un mode coach qui conseillerai à faire plus ou moins celon le >profil. 
+>- « Un mode marrant ou il te fait bosser un peu plus en trichant sur l’appli par exemple un décompte: 5-4-3-3-3-3-2-1-0. »
+>- « J’en aurai pas besoin mais ça m’aiderai, et je pense que je m’améliorerai. Je serais plus efficace avec des séances bien >préparées »
+>- « Avoir des programmes c’est bien, ça engage et ça rend moins laxiste et ça boost. »
+>- Il a souvent la flemme de compter ses temps de recupération.
 
 Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
