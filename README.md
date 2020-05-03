@@ -155,5 +155,9 @@ Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entou
 Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
 
-Modificaitons | Points Important
-Cercle bouton autour des bouton de retour/profil. Améliorer la transition après le signup. Retirer le « Contains » (juste la mention pas le contenu). Trainings sonne mieux que programs. Retirer le « full lenght »(juste la mention pas le contenu). | Personnalisation Liberté Ergonomie Information Complétude Fiabilité Empathie
+| Modificaitons | Points Important |
+|----------|-------------|
+| col 1 is| left-aligned |
+
+
+Cercle bouton autour des bouton de retour/profil. Améliorer la transition après le signup. Retirer le « Contains » (juste la mention pas le contenu). Trainings sonne mieux que programs. Retirer le « full lenght »(juste la mention pas le contenu). Personnalisation Liberté Ergonomie Information Complétude Fiabilité Empathie
