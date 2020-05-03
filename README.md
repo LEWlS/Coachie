@@ -299,4 +299,4 @@ Ensuite, je liste toutes les **nouvelles features** que ces **interviews** ont f
         - Téléchargements
         - Utilisation
 
-Je vais maintenant retourner en phase de **design** pour intégrer les **features** les moins complexes à mon **prototype**. Puis réfléchir à une deuxième **itération** de **user research**
+Je vais maintenant retourner en phase de **design** pour intégrer les **features** les moins complexes à mon **prototype**. Puis réfléchir à une deuxième **itération** de **user research**.
