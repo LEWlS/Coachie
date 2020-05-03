@@ -12,7 +12,7 @@ Cela me permet, déjà, de voir à quoi ressemble un **brief**, et surtout de po
 - J'identifie mon **utilisateur**.
 - Je définis les premières **features**.
 - Je liste des **applications** dont je peux m'inspirer ou qui sont en concurrence avec la mienne. 
-- Je fais une liste de **delivrables** comme si j'avais un client, cela me permettra de me fixer des objectifs et de construire une chronologie pour mon projet. 
+- Je fais une liste de **livrables** comme si j'avais un client, cela me permettra de me fixer des objectifs et de construire une chronologie pour mon projet. 
 - J'en profite aussi pour fixer des **deadlines** même si je n'ai pas encore la moindre idée du temps que peut me prendre chaques étapes, ni du nombre d'**itérations** qui auront lieu. Ce qui va me permettre de réaliser l'écart qu'il y a entre ce que j'anticipais au début du projet et ce qui est réellement.
 
 Ce **brief** n'a rien de définitif, puisque rien qu'en me limitant en terme de **features**, je passerais à côté de beaucoup d'aspects intéressants de la démarche. Il est voué à être mis à jour.
@@ -41,4 +41,4 @@ Wireframe | Prototype
 </p>
 
 
-Après une première **itération** et une bonne amélioration du **prototype**, je suis globalement satisfait du résultat, je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et essayer de mettre en place des **tests utilisateur**.
+Après une première **itération** et une bonne amélioration du **prototype**, je suis globalement satisfait du résultat, je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et mettre en place des **tests utilisateur**.
