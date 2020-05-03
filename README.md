@@ -159,8 +159,7 @@ Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entou
 >- « Avoir des programmes c’est bien, ça engage et ça rend moins laxiste et ça boost. »
 >- Il a souvent la flemme de compter ses temps de recupération.
 
-Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
-Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
+Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire et de bien noter les **points importants** pour mes **utilisateurs**.
 
 ## Retours principaux
 
@@ -171,6 +170,8 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
 | Retirer le « Contains » (juste la mention pas le contenu)| Ergonomie |
 | Trainings sonne mieux que programs| Information |
 | Retirer le « full lenght »(juste la mention pas le contenu)| Complétude |     
+
+Ensuite, je liste toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celles que j'ai imaginées pendant ce processus. Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable ou supérieur au prototype actuel et/ou qui requièrent des **connaissances et/ou ressources** que je n'ai que partiellement ou pas du tout.
 
 ## New Features
 
