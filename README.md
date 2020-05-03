@@ -1,5 +1,6 @@
 # Coachie
 
+## Début
 Il s'agit de mon premier projet utilisant les outils et méthodes de l'**UX Design**. Mon but est de concevoir une application permettant d'organiser ses entraînements en les programmant à l'avance.
 
 Dans un premier temps, je fais des recherches sur les méthodes et outils les plus adaptés à mon projet. J'ai choisi de prendre en main **Adobe Xd**. Je me sers de ce que j'ai appris auprès de la **dthinking.academy**, et j'exploite toutes sortes d'informations touvées sur internet. Découvrant encore le domaine, j'alterne l'avancement de mon projet avec des recherches et des lectures.
@@ -23,6 +24,8 @@ Ensuite j'élabore un **personna**. Le but est d'avoir un utilisateur type pour 
 
 <img align="right" width="187" height="406" src="medias/Git/v1/testv0.gif"> 
 
+## Protoypage
+
 Je commence à avoir une idée de ce que je veux faire. Je réunis de la docu, quelques tutos, et j'ouvre **Adobe Xd**.
 Je réalise un premier **wireframe** en multipliant les aller-retours sur google, pour comprendre le logiciel et exploiter ses outils au mieux tout en essayant de prendre de bonnes habitudes. 
 Au bout de quelques heures, j'ai un premier résultat et un premier **userflow** à interroger grâce au mode **prototype** de **Xd**.
@@ -43,6 +46,8 @@ Wireframe | Prototype
 
 Après une première **itération** et une bonne amélioration du **prototype**, je suis globalement satisfait du résultat, je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et mettre en place des **tests utilisateur**.
 
+## Première phase de recherche
+
 D'abord, bien que je n'ai pas d'objectif particulier avec ce processus de **research**, je conçois quelques questions pour guider un peu l'**interview** et me soutenir si jamais je perd un peu le file. Je dresse un profil du l'utilisateur puis je questionne au sujet de l'application. Mon but est de créer un **échange**, une discussion. Je veux créer un **lien avec mon utilisateur** et le comprendre, **sentir ses envies et ses besoins**. Je compte moins sur ces questions que sur ma capacité d'**empathie** pour avoir des réponses.
 
 <p align="center">
@@ -50,6 +55,8 @@ D'abord, bien que je n'ai pas d'objectif particulier avec ce processus de **rese
 </p>
 
 Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entourage qui pratique quotidiennement une activité sportive, en tout cas en ce moment, et qui semble y avoir un rapport différent. Nouria, une jeune femme de 22 ans et Raphael, jeune homme de 23 ans. Les **interviews** plus les **test utilisateur** ont durés un peu plus d'une heure à chaque fois. C'était très intéressant et sympathique. J'en ai appris beaucoup sur la vision qu'ils avaient du sport et d'une bonne application. Cependant, peut être parceque mon prototype étant assez peu fonctionnel et abouti ou parceque j'ai eu un peu de mal à guider **l'échange**, il a été difficile d'avoir des retours clairs sur l'application. J'ai reçu plus de propositions pour de **nouvelles features** que **d'avis** ou de **ressentis** sur ce qui était déjà là. Ou en tout cas ils étaient moins précis que les propositions. C'était peut être juste que l'idée de base était convaincante et qu'ils ne se posaient pas de question, ce qui est une très bonne chose.
+
+### Interviews
 
 >Notes de l'interview de Nouria:
 >
@@ -154,6 +161,8 @@ Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entou
 
 Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
+
+## Retours principaux
 
 | Modificaitons | Points Important |
 |----------|----------|
@@ -289,3 +298,4 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
         - Téléchargements
         - Utilisation
 
+Je vais maintenant intégrer les **features** les moins complexes à mon **prototype**. 
