@@ -161,4 +161,129 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
 | Améliorer la transition après le signup| Liberté |
 | Retirer le « Contains » (juste la mention pas le contenu)| Ergonomie |
 | Trainings sonne mieux que programs| Information |
-| Retirer le « full lenght »(juste la mention pas le contenu)| Complétude |      
+| Retirer le « full lenght »(juste la mention pas le contenu)| Complétude |     
+
+Complexité de mise en place faible:
+
+- Niveau de difficulté des entrainements.
+    - Noté par l’utilisateur
+    - Estimé par la machine (adapter au profil utilisateur et prenant en compte l’évolution de l’utilisateur)
+    - Difficulté visible dans la bibliothèque d’entrainements
+- Calendrier 
+- Tri d’entrainement
+        - Par difficulté
+        - Par contenu
+        - Par groupe musculaire
+        - Par type d’effort (force/résistance/endurance)
+        - Par type d’entrainement
+        - Par durée
+        - Besoin de matériel
+        - Lieu ou le faire
+        - Type de sport
+- Système de round
+- Edition d’entrainement
+- Locked screen interface
+- Preview de trainings
+- Player indiquant l’exercice en cours, le suivant, la prochaine pause, le record à cet exercice , la dernier performance à cet exercice, le niveau moyen à cet exercice
+- Bouton de retour à l’exercice précédent
+- Possibilité de sauter à n’importe quel exercice
+- Gradient de couleur pour indiquer la difficulté d’un exercice
+- Système de playlist entrainement
+    - Enregistrable
+- Intégrer un programme à un autre
+
+
+Complexité de mise en place haute:
+
+- Parametre de l’application
+    - Option pour que le programme attende l’utilisateur ou non
+    - Personnalisation de l’apparence
+    - Personnalisation des infos afficher
+    - Edition des historique / statistique
+    - Edition du profil utilisateur 
+    - Edition des couleurs des exercice.
+    - Edition de la difficulté des exercices et des entrainements
+    - Personnalisation du coach
+- Profil utilisateur complexe
+    - Etablissement d’objectif
+    - Suivi de forme
+    - Historique
+    - Calcul du rapport temps répétition 
+    - Achievements
+    - Statistique en tout genre
+    - Statistique par exercice
+    - Statistique par entrainement
+    - Record
+    - Information en tout genre sur la performance
+    - Système de récompense
+    - Récapitulatif de progression (grâce aux historiques)
+- Bibliothèque d’exercice
+    - Triable
+        - Par difficulté
+        - Par groupe musculaire
+        - Par type d’effort (force/résistance/endurance)
+        - Par nombre de muscle engagés
+        - Par durée
+        - Par type d’exercice
+        - Besoin de matériel
+        - Lieu ou le faire
+        - Type de sport
+    - Conseil et explication sur chaque exercice.
+    - Recommandation d’exercice de qualité mais aussi en fonction du profil utilisateur
+- Option d’assistance à la création de programmes.
+    - Possibilité de définir des caractéristiques a l’entrainement
+        - Par difficulté
+        - Par groupe musculaire
+        - Par type d’effort (force/résistance/endurance)
+        - Par durée?
+        - Par type d’exercice
+        - Besoin de matériel
+        - Lieu ou le faire
+        - Type de sport
+    - Exercice complémentaire
+    - Exercice adapté au profil utilisateur
+    - Recommandation en fonction du profil utilisateur
+    - Recommandation en fonction des exercices précédent
+        - Complémentarité
+            - Pour continuer dans la même branche
+            - Ou compléter le programme
+        - Variete
+- Bibliothèque d’entrainements préconçus.
+    - Triable
+        - Par difficulté
+        - Par contenu
+        - Par groupe musculaire
+        - Par type d’effort (force/résistance/endurance)
+        - Par type d’entrainement
+        - Par durée 
+        - Besoin de matériel
+        - Lieu ou le faire
+        - Type de sport
+    - Conseil et explication sur chaque entrainement.
+    - Proposition d’entrainement en fonction du profil utilisateur
+- Coach (Alexa/siri)
+    - Vocal et/ou écrit 
+    - Encourage
+    - Rappel des conseils d’exécutions
+    - Rappel des conseils santé
+    - Recommande des entrainements sur le calendrier ou quand sollicité.
+    - S’adapte au profil utilisateur 
+    - Jauges comportementales du coach parametrables (cf Interstellar)
+- Diagramme de force/faiblesse de l’utilisateur
+- Diagramme bilan du travail effectué pour l’instant.
+- Historique de modification des programme pour voir sa progression
+- Achievements
+- Partage des programmes
+    - Triable
+        - Par difficulté
+        - Par groupe musculaire
+        - Par type d’effort (force/résistance/endurance)
+        - Par durée?
+        - Par type d’exercice
+        - Besoin de matériel
+        - Lieu ou le faire
+        - Type de sport
+        - Likes
+        - Téléchargements
+        - Utilisation
+
