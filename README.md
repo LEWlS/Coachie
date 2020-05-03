@@ -51,7 +51,50 @@ D'abord, bien que je n'ai pas d'objectif particulier avec ce processus de **rese
 
 Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entourage qui pratique quotidiennement une activité sportive, en tout cas en ce moment, et qui semble y avoir un rapport différent. Nouria, une jeune femme de 22 ans et Raphael, jeune homme de 23 ans. Les **interviews** plus les **test utilisateur** ont durés un peu plus d'une heure à chaque fois. C'était très intéressant et sympathique. J'en ai appris beaucoup sur la vision qu'ils avaient du sport et d'une bonne application. Cependant, peut être parceque mon prototype étant assez peu fonctionnel et abouti ou parceque j'ai eu un peu de mal à guider **l'échange**, il a été difficile d'avoir des retours clairs sur l'application. J'ai reçu plus de propositions pour de **nouvelles features** que **d'avis** ou de **ressentis** sur ce qui était déjà là. Ou en tout cas ils étaient moins précis que les propositions. C'était peut être juste que l'idée de base était convaincante et qu'ils ne se posaient pas de question, ce qui est une très bonne chose.
 
->Raphael:
+>Notes de l'interview de Nouria:
+>
+>- Fait du sport tout les jours.
+>- Renforcement musculaire
+>- Pour se sentir mieux, être plus dynamique, moins fatiguée.
+>- Le fais en groupe donc trouve ça plutôt sympa. Il y a quand même des jours ou plus durs que d’autres.
+>- Impatiente sur les résultats. Vu la période, c’est désagréable d’être limitée. 
+>- En ce moment c’est le morale qui pèse un peu. Sinon le trajet pour aller a la salle. Emploie du temps parfois un peu serré.
+>- Le groupe aide beaucoup pour la motivation (« x10 000 »). Pour la concentration, c’est mieux d’être seul.
+>
+>
+>Test du prototype avec le navigateur:
+>
+>- Elle utilise l’application d’entrainement de sa salle : « il faut à chaque fois relancer les exos, ça serait mieux que ça >se lance tout seul ou que ça soit une option que les exos nous attendent pour se lancer ».
+>- Pouvoir mélanger les reps et les timer est une très bonne idée. Elle aime pouvoir personnaliser le plus possible ses >entrainements.
+>- Elles aiment recevoir des conseils d’exécution sur les exos.
+>- Elle apprécie les suggestions d’exos qui complèteraient le programme de l’utilisateur.
+>- Elle aimerait pouvoir voir le niveau de difficulté des entrainements.
+>- Elle voudrait une bibliothèque d’exos pour les debutants ou ceux qui veulent découvrir de nouveau exos.
+>- Peut être une bibliothèque d’entrainement personnalisée, des exos favoris ou des exos correspondant au profil utilisateur.
+>- Elle apprécie beaucoup pouvoir préparer ses entrainements.
+>- Elle voudrait un onglet communauté ou les utilisateurs pourraient partager leurs entrainements.
+>- Elle aimerait avoir la possibilité de trié les trainings sur l’onglet communauté en fonction des likes ou des >telechargements des trainings ou d’autres
+>- facteurs.
+>- Elle apprécierait que l’application propose des entrainements en fonction du profil utilisateur.
+>- Elle aimerait avoir un historique de modification des programmes pour sa progression.
+>- Elle voudrait pourvoir trier ses entrainements en fonctions du contenu, de leur durée, de leur difficulté.
+>- Elle veut pouvoir noter elle-même la difficulté de ses entrainements.
+>- Elle trouve la possibilité de partager ses entrainements vraiment intéressante.
+>- Les stats sont vraiment importantes pour elle, en particulier pour une application de sport.
+>- Dans neoness (applis de sa salle) il y a beaucoup de possibilités pour trouver des entrainements dans leur bibliothèque. Il >y a des filtres pour choisir un entrainement en fonction du temps, des groupes musculaire, du lieu où le faire, selon ses >objectifs, et les sports qui nous plait. Et elle apprécie beaucoup ces fonctionnalités.
+>- Elle veut à la fois, avoir beaucoup d’aide et en même temps être très libre de faire ce qu’elle veut comme elle le veut.
+>- Elle aime être enrichie de plein de choses et qu’on la laisse faire ce quelle veut ensuite.
+>- Elle voudrait qu’il y ait beaucoup de paramètres, pour adapter le fonctionnement et l’apparence de l’application en plus de >l’entrainement.
+>- Si une application commence à lui déplaire, le sport aussi et elle pourrait assez vite laisser tomber. Le moindre détails >dérangeant et non modifiable peut suffire.
+>- « Une application, je sais en 30sec si je vais la garder ou pas »
+>- « Les applis de sport plus c’est intuitif, plus c’est complet, plus ça plait »
+>- Elle l’utiliserait tout les jours. Parce qu’elle ne veut pas s’ennuyer et prendre du plaisir à faire du sport. La liberté >proposer lui plait beaucoup.
+>- C’est pour elle une application qui manque, encore plus en temps de confinement. 
+>- L’application plait beaucoup.
+>- Elle préfère les design sobre.
+
+
+>Notes de l'interview de Raphael:
 
 >- Tout les jours.
 >- Hit et Renforcement. 
@@ -111,5 +154,4 @@ Ensuite, j'ai cherché des candidats. J'ai trouvé deux personnes dans mon entou
 
 Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
-
 
