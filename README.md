@@ -173,7 +173,7 @@ Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abor
 
 ## New Features
 
-Ensuite, je liste toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celles que j'ai imaginées pendant ce processus. Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable ou supérieur au prototype actuel et/ou qui requièrent des **connaissances et/ou ressources** que je n'ai que partiellement ou pas du tout.
+Ensuite, je liste toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celles que j'ai imaginées pendant ce processus. Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable ou supérieur au prototype actuel et/ou qui requièrent des **connaissances et/ou ressources** que je n'ai que partiellement ou pas du tout. Je pense qu'elles pourraient intégrer une version payante. Je vais me focaliser sur des features nécéssaires pour l'instant.
 
 ### Complexité de mise en place faible:
 
