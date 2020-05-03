@@ -156,8 +156,8 @@ Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abor
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
 
 | Modificaitons | Points Important |
-|----------|-------------|
-| Cercle bouton autour des bouton de retour/profil| PFiabilité |
+|----------|----------|
+| Cercle bouton autour des bouton de retour/profil| Fiabilité |
 | Améliorer la transition après le signup| Liberté |
 | Retirer le « Contains » (juste la mention pas le contenu)| Ergonomie |
 | Trainings sonne mieux que programs| Information |
