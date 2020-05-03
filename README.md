@@ -163,7 +163,9 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
 | Trainings sonne mieux que programs| Information |
 | Retirer le « full lenght »(juste la mention pas le contenu)| Complétude |     
 
-Complexité de mise en place faible:
+##New Features##
+
+###Complexité de mise en place faible:###
 
 - Niveau de difficulté des entrainements.
     - Noté par l’utilisateur
@@ -193,7 +195,7 @@ Complexité de mise en place faible:
 - Intégrer un programme à un autre
 
 
-Complexité de mise en place haute:
+###Complexité de mise en place haute:###
 
 - Parametre de l’application
     - Option pour que le programme attende l’utilisateur ou non
