@@ -58,7 +58,8 @@ Nouria | Raphael
 Il y a eu énormément de choses qui en sont ressorties. J'ai décidé de d'abord retenir les **modifications** que j'avais à faire. Ensuite, de bien noter les **points importants** pour mes **utilisateurs** et enfin lister toutes les **nouvelles features** que ces **interviews** ont fait ressortir ainsi que celle que j'ai imaginé pendant ce processus.
 Je les ai séparées en deux catégories, celles à **complexité de mise en place faible**, que je peux facilement ajouter un prototype déjà existant et celles à **complexité de mise en place haute**, qui demandent plus de temps pour être **designées** et/ou qui nécessitent un **dévellopement** comparable au prototype actuel et/ou qui requièrent des **connaissances et ressources** que je n'ai que partiellement voir pas.
 
-<img align="center" src="medias/Git/research1/mods.png">
-<img align="center" src="medias/Git/research1/pts.png">
+Notes | Notes
+------- | -------
+<img align="center" src="medias/Git/research1/mods.png"> | <img align="center" src="medias/Git/research1/pts.png">
 <img align="center" src="medias/Git/research1/nff.png">
-<img align="left" src="medias/Git/research1/nfh1.png"> <img align="right" src="medias/Git/research1/nfh2.png">
+<img align="left" src="medias/Git/research1/nfh1.png">| <img align="right" src="medias/Git/research1/nfh2.png">
