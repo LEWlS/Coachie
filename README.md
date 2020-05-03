@@ -46,7 +46,7 @@ Wireframe | Prototype
 
 Après une première **itération** et une bonne amélioration du **prototype**, je suis globalement satisfait du résultat, je pense que c'est suffisant pour l'instant. Je vais pouvoir commencer à montrer mon application, récolter du **feedback**, **interviewer** des utilisateurs potentiels et mettre en place des **tests utilisateur**.
 
-## Première phase de recherche
+## Première phase de recherche utilisateur
 
 D'abord, bien que je n'ai pas d'objectif particulier avec ce processus de **research**, je conçois quelques questions pour guider un peu l'**interview** et me soutenir si jamais je perd un peu le file. Je dresse un profil du l'utilisateur puis je questionne au sujet de l'application. Mon but est de créer un **échange**, une discussion. Je veux créer un **lien avec mon utilisateur** et le comprendre, **sentir ses envies et ses besoins**. Je compte moins sur ces questions que sur ma capacité d'**empathie** pour avoir des réponses.
 
