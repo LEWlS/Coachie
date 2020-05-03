@@ -157,7 +157,8 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
 
 | Modificaitons | Points Important |
 |----------|-------------|
-| col 1 is| left-aligned |
-
-
-Cercle bouton autour des bouton de retour/profil. Améliorer la transition après le signup. Retirer le « Contains » (juste la mention pas le contenu). Trainings sonne mieux que programs. Retirer le « full lenght »(juste la mention pas le contenu). Personnalisation Liberté Ergonomie Information Complétude Fiabilité Empathie
+| Cercle bouton autour des bouton de retour/profil| PFiabilité |
+| Améliorer la transition après le signup| Liberté |
+| Retirer le « Contains » (juste la mention pas le contenu)| Ergonomie |
+| Trainings sonne mieux que programs| Information |
+| Retirer le « full lenght »(juste la mention pas le contenu)| Complétude |      
