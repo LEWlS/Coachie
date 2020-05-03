@@ -61,5 +61,5 @@ Je les ai séparées en deux catégories, celles à **complexité de mise en pla
 Notes | Notes
 ------- | -------
 <img align="center" src="medias/Git/research1/mods.png"> | <img align="center" src="medias/Git/research1/pts.png">
-<img align="center" src="medias/Git/research1/nff.png">
-<img align="left" src="medias/Git/research1/nfh1.png">| <img align="right" src="medias/Git/research1/nfh2.png">
+<img align="center" src="medias/Git/research1/nff.png"> |
+<img align="left" src="medias/Git/research1/nfh1.png"> | <img align="right" src="medias/Git/research1/nfh2.png">
